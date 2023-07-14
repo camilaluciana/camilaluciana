@@ -26,8 +26,8 @@ Conocimiento de Python básico
 --> IDIOMAS 
 
 Castellano - Nativo.
-Ingles 
-Nivel avanzado
+
+Ingles - Nivel avanzado
 
 
 
