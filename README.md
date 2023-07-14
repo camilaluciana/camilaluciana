@@ -9,10 +9,10 @@ actividades que realizo.
 
 --> DATOS ACADÉMICOS
 
-AEE PUCP
-Certificado en R básico
+AEE PUCP - Certificado en R básico
 
 Conocimiento de Stata avanzado
+
 Conocimiento de Python básico
 
 --> HABILIDADES 
